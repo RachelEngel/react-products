@@ -1,0 +1,71 @@
+.aboutPage{
+    
+    margin:auto !important;
+    width: 900px;
+    height: 380px;
+    background-color: rgba(224, 193, 223, 0.541);
+    color: rgb(86, 18, 95);
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid rgb(71, 15, 73);
+    margin-top: 15px !important;
+
+
+}
+*{
+        font-family: cursive;
+             /* background-image: url("./productImages/giphy\ \(3\).gif") ; */
+
+
+}
+/* .aboutPage{
+    background: 
+    url("../img/8.jpg") bottom center no-repeat; 
+    opacity: 0.5; 
+} */
+.TITLE{
+font-size: 50px;
+    text-align: center;
+
+}
+.titleCh{
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: bold !important;
+    color: black !important;
+}
+.titleCh1{
+    font-size: 20px ;
+     font-family: cursive;
+    font-weight: bold !important;
+    
+}
+button{
+       border-radius: 10%;
+           margin-left: 500px;
+
+    width: auto;
+}
+.bbbb{
+    margin-left: 500px;
+
+}
+.cccc{
+    margin-left: 1000px;
+    margin-top: -31px;
+}
+p{
+    font-size: large !important;
+}
+.up{
+    font-size: large;
+    margin-left: 116px;
+    margin-top: 8px;
+    color: aqua;
+}
+.name{
+     font-size: large;
+    margin-left: 116px;
+    margin-top: 8px;
+    color: aqua;
+}

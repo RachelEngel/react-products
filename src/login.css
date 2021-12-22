@@ -1,0 +1,59 @@
+.login{
+    font-size: large;
+    margin-left: 35%;
+    margin-top: 112px;
+}
+.title {
+    display: flex;
+}
+.title_name {
+    padding-right: 45px;
+}
+.b1{
+    color: #fff;
+     background-color: #00edff;
+    border-color: #0a332a;
+}
+.aa{
+     background-image: url("./productImages/giphy\ \(3\).gif") ;
+     /* background-image: url("./רקע.jpg") ; */
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    position: absolute;
+}
+.mt-4{
+    width: 155% !important;
+}
+.modal-content{
+    width: 110% !important;
+}
+.welcome{
+    font-size: xxx-large !important;
+    padding-left: 183px;
+    padding-bottom: -15px;
+    font-weight: bolder;
+}
+p{
+        font-size: xxx-large !important;
+
+}
+.g{
+    width: 472px;
+}
+.v{
+        width: 489px;
+}
+.c{
+        width: 489px;
+}
+.l{
+        width: 489px;
+}
+.n{
+        width: 489px;
+}
+.h{
+    width: 376px;
+    padding-left: 72px;
+}
